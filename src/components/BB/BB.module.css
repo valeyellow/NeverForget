@@ -1,0 +1,27 @@
+.parentContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px 14px 20px 32px;
+  background: #fff;
+
+  justify-content: center;
+}
+
+.bagSvg {
+  padding: 0 11px 6px 0;
+}
+
+.loadingContainer {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  font-family: Lato;
+  font-size: 18px;
+}
+
+@media screen and (max-width: 440px) {
+  .parentContainer {
+    padding-left: 18px;
+    padding-right: 8px;
+  }
+}
