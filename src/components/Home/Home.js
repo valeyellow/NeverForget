@@ -72,6 +72,7 @@ class Home extends React.Component {
           href="https://makersplace.com/mitrai/warriors-of-hope-1-of-1-65851/"
           target="_blank"
           className={styles.callToActionBtn}
+          rel="noopener noreferrer"
         >
           BID FOR THIS NFT TO DONATE TO THIS CAUSE
         </a>

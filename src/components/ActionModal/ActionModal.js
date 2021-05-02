@@ -40,6 +40,7 @@ const ActionModal = ({ scrollPosition, scrollToTop }) => {
           <a
             href="https://makersplace.com/mitrai/warriors-of-hope-1-of-1-65851/"
             target="_blank"
+            rel="noopener noreferrer"
             className={styles.bidForNftBtn}
           >
             BID FOR THIS NFT
