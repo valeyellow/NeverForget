@@ -13,7 +13,7 @@ const ActionModal = ({ scrollPosition, scrollToTop }) => {
       >
         <div className={styles.titleScrollContainer}>
           <div className={styles.titleContainer}>
-            <span>These people were member of someone’s family.</span>
+            <span>These people were members of someone’s family.</span>
             <br />
             <span className={styles.redText}>They are no more.</span>
           </div>
